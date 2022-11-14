@@ -1,7 +1,27 @@
-# final-frt-pro
-This is my final frt project
-## My frt project url (Using web apps) : https://salmon-glacier-04a752e10.2.azurestaticapps.net/
-## My frt project url (Using App services) : https://mediplusapp.azurewebsites.net/
+# finalpro:Future Ready Talent Project By TEJA SWARUP UDATA
+
+Here I can create A Mediplus Store Which Can Order Different medicines And Learn Categories Of medicines Available.
+
+## Description:MedPlus App is a comprehensive medical App where you can not only order medicines but also read important information about the medicines you take, their alternatives or substitutes, precautions and their side effects.
+
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : HEALTH
+
+Project Title : Mediplus
+
+Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of medicines Taken.
+
+Project Description : Best medicines Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of medicines Taken.
+
+Primary Azure Technology : Static Web Apps, App Service
+
+## Static web app URL : https://salmon-glacier-04a752e10.2.azurestaticapps.net/
+## App services URL : https://mediplusapp.azurewebsites.net/
 ## Menu 
 ![Screenshot 2022-10-27 014024](https://user-images.githubusercontent.com/111041131/198127037-2e3bd8e2-58cd-461c-be49-bdf1100ecbab.png)
 ## Home page
