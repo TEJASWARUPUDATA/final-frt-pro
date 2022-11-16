@@ -20,23 +20,27 @@ Project Description : Best medicines Quality Is Important To Us Every One Good H
 
 Primary Azure Technology : Static Web Apps, App Service
 
-## Static web app URL : https://salmon-glacier-04a752e10.2.azurestaticapps.net/
-## App services URL : https://mediplusapp.azurewebsites.net/
-## Menu 
-![Screenshot 2022-10-27 014024](https://user-images.githubusercontent.com/111041131/198127037-2e3bd8e2-58cd-461c-be49-bdf1100ecbab.png)
+Static web app URL : https://salmon-glacier-04a752e10.2.azurestaticapps.net/
+
+App services URL : https://mediplusapp.azurewebsites.net/
+ 
+## My Website Link : https://salmon-glacier-04a752e10.2.azurestaticapps.net/
+
 ## Home page
 ![image](https://user-images.githubusercontent.com/111041131/198127568-d3e842b9-1810-4995-b3dc-621bfcd7e1d9.png)
 ![image](https://user-images.githubusercontent.com/111041131/198127783-65fbfe2d-6af5-4ec3-b5bd-fa43e2cce666.png)
 ![image](https://user-images.githubusercontent.com/111041131/198127857-28aa741a-73af-4a83-976a-f3c5408b918b.png)
-## Aboutus page
+![image](https://user-images.githubusercontent.com/111041131/198128451-167017bb-97d9-454a-abbc-af61d830a5f2.png)
+
+## About
 ![image](https://user-images.githubusercontent.com/111041131/198127997-839f9e2b-0985-4438-8e44-161a48311906.png)
 ![image](https://user-images.githubusercontent.com/111041131/198128084-16d23c65-a127-45e1-b3bf-7ded94c12bac.png)
-## Products page
-![image](https://user-images.githubusercontent.com/111041131/198128186-f0d3f91b-1d21-4532-9d4a-7bc20f0bbd1d.png)
-## contactus page
-![image](https://user-images.githubusercontent.com/111041131/198128310-8623d0e8-699e-486e-a499-1de8e82e90dc.png)
-## Navigation and Copyrights
 ![image](https://user-images.githubusercontent.com/111041131/198128451-167017bb-97d9-454a-abbc-af61d830a5f2.png)
-## used microsoft azure tools
+
+## Contact US
+![image](https://user-images.githubusercontent.com/111041131/198128310-8623d0e8-699e-486e-a499-1de8e82e90dc.png)
+![image](https://user-images.githubusercontent.com/111041131/198128451-167017bb-97d9-454a-abbc-af61d830a5f2.png)
+
+## Azure Services Used
 ![Screenshot 2022-11-15 010255](https://user-images.githubusercontent.com/111041131/201749618-30c2b12d-771c-4ffe-874c-e4831ef939b1.png)
 
